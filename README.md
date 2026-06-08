@@ -10,6 +10,8 @@
 
 Sistema de detección de fraude financiero basado en técnicas de **aprendizaje automático supervisado**, desarrollado sobre el dataset público **IEEE-CIS Fraud Detection** (Kaggle). El proyecto abarcó desde el preprocesamiento y análisis exploratorio hasta la optimización de hiperparámetros y análisis de reducción de dimensionalidad, logrando un modelo final con **ROC-AUC de 0.9500** y **PR-AUC de 0.7943**.
 
+> Enlace video Youtube - https://youtu.be/_eGB1w32rek
+
 ---
 
 ## 📂 Estructura del Repositorio
